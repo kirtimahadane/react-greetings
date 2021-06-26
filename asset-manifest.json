@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-greetings/static/css/main.a38eae80.chunk.css",
+    "main.js": "/react-greetings/static/js/main.584a55b6.chunk.js",
+    "main.js.map": "/react-greetings/static/js/main.584a55b6.chunk.js.map",
+    "runtime-main.js": "/react-greetings/static/js/runtime-main.2c102e62.js",
+    "runtime-main.js.map": "/react-greetings/static/js/runtime-main.2c102e62.js.map",
+    "static/js/2.43bf1463.chunk.js": "/react-greetings/static/js/2.43bf1463.chunk.js",
+    "static/js/2.43bf1463.chunk.js.map": "/react-greetings/static/js/2.43bf1463.chunk.js.map",
+    "static/js/3.158e9a15.chunk.js": "/react-greetings/static/js/3.158e9a15.chunk.js",
+    "static/js/3.158e9a15.chunk.js.map": "/react-greetings/static/js/3.158e9a15.chunk.js.map",
+    "index.html": "/react-greetings/index.html",
+    "static/css/main.a38eae80.chunk.css.map": "/react-greetings/static/css/main.a38eae80.chunk.css.map",
+    "static/js/2.43bf1463.chunk.js.LICENSE.txt": "/react-greetings/static/js/2.43bf1463.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/react-greetings/static/media/rose.7694c606.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c102e62.js",
+    "static/js/2.43bf1463.chunk.js",
+    "static/css/main.a38eae80.chunk.css",
+    "static/js/main.584a55b6.chunk.js"
+  ]
+}
